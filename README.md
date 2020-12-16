@@ -1,6 +1,6 @@
 # alex-501.github.io
 
-# Run Buddy
+# Run Buddy inc
 
 ## Purpose
 A website that offers fitness training services.
