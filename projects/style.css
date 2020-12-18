@@ -1,0 +1,49 @@
+body {
+  /* more on this crazy aphanumerical value in a minute! */
+  font-family: Helvetica, Arial, sans-serif;
+  color: #39a6b2;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*apply styles to <header> */
+header {
+padding: 10px 15px 20px 35px;
+background-color: #39a6b2;
+}
+header h1 {
+font-weight: bold;
+font-size: 36px;
+color: #fce138;
+margin: 0;
+text-decoration: underline;
+}
+header a {
+text-decoration: none;
+ color: #fc3138; 
+}
+
+header h2 {
+font-weight: lighter;
+font-size: 20px;
+color: #fce138;
+margin: 0;
+text-decoration: underline;
+text-indent: 36px ;
+header a {
+color: #fce138;
+}
+
+header nav {
+float: right;
+margin: 7px 0;
+}
+
+header nav ul li {
+display: inline;
+}
+
+header nav ul li a {
+margin: 0 30 px;
+font-weight: lighter;
+font size: 22px;
+}
