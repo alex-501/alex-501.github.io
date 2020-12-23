@@ -10,7 +10,8 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+
+https://alex-501.github.io/projects/index.html
 
 ## Contribution
 Made with ❤️ by [your name]
